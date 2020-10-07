@@ -114,14 +114,14 @@ namespace InStockScraper
                             if (!buylink.Text.ToLower().Equals(textMatchs[i].ToLower()))
                             {
                                 //Console.WriteLine(buylink.Text);
-                                SendEmail(testEmail, "card in stock", websites[i]);
+                                SendEmail(anthonyEmail, "card in stock", websites[i]);
                                 //emailSent = true;
                             }
                         }
                     }
                     catch (Exception ex)
                     {
-                        SendEmail(testEmail, "Error need to restart program", "check website to be sure" + websites[i]);
+                        SendEmail(anthonyEmail, "Error need to restart program", "check website to be sure" + websites[i]);
                         //Console.WriteLine(ex.Message);
                         emailSent = true;
                     }

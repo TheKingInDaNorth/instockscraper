@@ -11,4 +11,3 @@ C:\Users\itztu\OneDrive\Desktop\Git Repositories\instockscraper\InStockScraper\I
 C:\Users\itztu\OneDrive\Desktop\Git Repositories\instockscraper\InStockScraper\InStockScraper\obj\Debug\netcoreapp3.1\InStockScraper.csproj.CopyComplete
 C:\Users\itztu\OneDrive\Desktop\Git Repositories\instockscraper\InStockScraper\InStockScraper\obj\Debug\netcoreapp3.1\InStockScraper.dll
 C:\Users\itztu\OneDrive\Desktop\Git Repositories\instockscraper\InStockScraper\InStockScraper\obj\Debug\netcoreapp3.1\InStockScraper.pdb
-C:\Users\itztu\OneDrive\Desktop\Git Repositories\instockscraper\InStockScraper\InStockScraper\obj\Debug\netcoreapp3.1\InStockScraper.csprojAssemblyReference.cache
